@@ -130,11 +130,7 @@ $total_pages = ceil($total_records / $limit);
 <div class="insert-post-ads1" style="margin-top:100px;">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336-responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5044208028083716"
-     data-ad-slot="6174270289"
-     data-ad-format="auto"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5044208028083716" data-ad-slot="6174270289" data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
